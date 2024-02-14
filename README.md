@@ -30,5 +30,5 @@ How to Use:
 1. Clone the repository: https://github.com/kyliews/Application_Graphic_Interface
 2. Navigate to the project directory: cd Application_Graphic_Interface
 3. Run the Python script: Ctrl + F5 on the main.py file
-4. 
+   
 Now, interact with the graphical interface.
