@@ -1,40 +1,31 @@
-Interface gráfica construída utilizando o framework Qt, com o intuito de criar uma aplicação com várias páginas e um menu lateral retrátil.
 
-Requisitos:
-Certifique-se de ter os seguintes requisitos instalados em seu ambiente de desenvolvimento:
+Graphic interface built using the Qt framework, aiming to create an application with multiple pages and a retractable sidebar menu.
+
+Requirements: Ensure you have the following requirements installed in your development environment:
 
 Python
-PyQt5 (ou PyQt6)
-Qt Designer (para editar as interfaces gráficas)
+PyQt5 (or PyQt6)
+Qt Designer (for editing graphical interfaces)
 
-Estrutura do Projeto:
+Project Structure:
 
-O projeto está organizado da seguinte forma:
+The project is organized as follows:
 
-gui/window/main_window: Contém o arquivo ui_mainWindow.py, que define a interface gráfica principal usando o Qt Designer.
+gui/window/main_window: Contains the ui_mainWindow.py file, defining the main graphical interface using Qt Designer.
 
-main.py: Contém a implementação da classe MainWindow, que é a janela principal da aplicação.
+main.py: Contains the implementation of the MainWindow class, which is the main window of the application.
 
-Funcionalidades:
+Features:
 
-•Toggle Button:
-O botão toggle_button na barra superior permite retrair ou expandir o menu lateral.
+Toggle Button: The toggle_button in the top bar allows retracting or expanding the sidebar menu.
 
-•Páginas:
-A aplicação possui três páginas diferentes acessíveis através dos botões btn_1, btn_2 e settings_buttom.
+Pages: The application has three different pages accessible through the btn_1, btn_2, and settings_button.
 
-•Animação de Transição:
-A largura do menu lateral é ajustada com uma animação suave de transição.
+Transition Animation: The width of the sidebar menu is adjusted with a smooth transition animation.
 
-Como Usar:
+How to Use:
 
-1. Clone o repositório:
-https://github.com/kyliews/Aplicacao_Interface_Grafica
-
-2. Navegue até o diretório do projeto:
-cd Aplicacao_Interface_Grafica
-
-3. Execute o script Python:
-Ctrl + F5 no arquivo main.py
-
-Interaja com o banco de dados agora.
+Clone the repository: https://github.com/kyliews/Application_Graphic_Interface
+Navigate to the project directory: cd Application_Graphic_Interface
+Run the Python script: Ctrl + F5 on the main.py file
+Now, interact with the graphical interface.
