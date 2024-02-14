@@ -4,7 +4,9 @@ Graphic interface built using the Qt framework, aiming to create an application 
 Requirements: Ensure you have the following requirements installed in your development environment:
 
 Python
+
 PyQt5 (or PyQt6)
+
 Qt Designer (for editing graphical interfaces)
 
 Project Structure:
@@ -25,7 +27,8 @@ Transition Animation: The width of the sidebar menu is adjusted with a smooth tr
 
 How to Use:
 
-Clone the repository: https://github.com/kyliews/Application_Graphic_Interface
-Navigate to the project directory: cd Application_Graphic_Interface
-Run the Python script: Ctrl + F5 on the main.py file
+1. Clone the repository: https://github.com/kyliews/Application_Graphic_Interface
+2. Navigate to the project directory: cd Application_Graphic_Interface
+3. Run the Python script: Ctrl + F5 on the main.py file
+4. 
 Now, interact with the graphical interface.
